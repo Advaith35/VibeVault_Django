@@ -43,9 +43,9 @@ python manage.py runserver
 5.Access the app at http://localhost:8000.
 
 ## Future Enhancements
-Add support for more streaming services like SoundCloud.
-Implement user authentication and personalized download history.
-Enable batch downloading.
+-Add support for more streaming services like SoundCloud.
+-Implement user authentication and personalized download history.
+-Enable batch downloading.
 
 Thank you! 
 
